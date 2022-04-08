@@ -5,7 +5,7 @@ import Product from '../models/productModel.js'
 import Stripe from 'stripe'
 import * as Razorpay from 'razorpay';
 
-const stripe = new Stripe('sk_test_51JjjPCF3RlIhoq4AkOwHSs7EN8fr0t4lBuf3AvPCdgI3zGEgtf4k6rCTYcyOtyoDvX27ibOBQXeSbiNE5SzygoCl00a2iE3MGU');
+// const stripe = new Stripe('');
 
 // fetch all orders
 const getOrders = asyncHandler(async (req, res) => {

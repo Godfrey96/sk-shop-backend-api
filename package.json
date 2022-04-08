@@ -19,7 +19,6 @@
     "express": "^4.17.3",
     "express-async-handler": "^1.2.0",
     "express-jwt": "^6.1.1",
-    "heroku": "^7.60.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.6",
     "morgan": "^1.10.0",
